@@ -1,0 +1,9 @@
+header, aside, article, footer, nav {
+    border-radius: 20px; border: solid #3F7CC4 1px; text-align: center;
+}
+div {
+    display: flex;
+}
+body{
+    font-size: x-large;
+}
